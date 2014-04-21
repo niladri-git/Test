@@ -1,0 +1,4 @@
+This is test for copy file.
+
+t1
+t2
